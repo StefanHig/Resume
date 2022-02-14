@@ -1,9 +1,6 @@
 # Stefan Higgins
 
-**[stfn.work](https://stfn.work/) |
-[GitHub](https://github.com/StefanHig) |**
-(416) 931-5349 **|**
-<stefanhiggins@uvic.ca>
+**[stfn.work](https://stfn.work/) | [github](https://github.com/StefanHig) | <stefanhiggins@uvic.ca> | 416-931-5349**
 
 ***
 
@@ -16,23 +13,23 @@ Researcher and technical communicator interested in technology, ethics of techno
 
 **Digital Editor and Lead Researcher, Research Data Management for Humanists, University of Victoria** (2021)
 * *Lead author* (90%) of [report on data infrastructure and management](https://ospolicyobservatory.uvic.ca/draft-report-rdm/) in Canada
-* Research: independently developed research question and literature review, identified key stakeholders, made policy recommendations, and submitted report to deadline
-* Project management: planned 600-person virtual workshop, developed pre- and post-event surveys
+* *Research*: independently developed research question and literature review, identified key stakeholders, made policy recommendations, and submitted report to deadline
+* *Project management*: planned 600-person virtual workshop, developed pre- and post-event surveys
 * Performed qualitative data analysis, transcribed event videos for accessibility, built event Wiki, contributed to working group sessions
 
 **Senior Learning Technology Assistant, Learning and Teaching and Support and Innovation, University of Victoria** (2020)
-* Project management: *supervised* team of 4 providing technical support, customer service, course building, programming fixes, and technical writing for [help documentation](https://onlineacademiccommunity.uvic.ca/TeachAnywhere/instructor-help/)
+* *Project management*: supervised team of 4 providing technical support, customer service, course building, programming fixes, and technical writing for [help documentation](https://onlineacademiccommunity.uvic.ca/TeachAnywhere/instructor-help/)
 * Successfully onboarded faculty and students on-the-fly to new CMS under shifting and tight deadlines
 * Adopted agile methodologies for project management, solved course problems, improved technical help documentation, and proposed standards for WYSIWYG editor use
 
 **Researcher and Research Assistant, The Praxis Studio, University of Victoria** (2018-2020)
-* Research: participated in independent and [team-based](https://spokenweb.ca/) projects on topics related to technology and technology use today and historically, including fact-checking and resource-building work
-* Project management: project planning and budgeting, delegation of research duties, event planning, producing original research reports
-* Editorial: copyedited and edited two books for academic and public publication
+* *Research*: participated in independent and [team-based](https://spokenweb.ca/) projects on topics related to technology and technology use today and historically, including fact-checking and resource-building work
+* *Project management*: project planning and budgeting, delegation of research duties, event planning, producing original research reports
+* *Editorial*: copyedited and edited two books for academic and public publication
 
 **Legislative Policy Researcher, Office of Andrew Weaver, MLA and Leader of BC Green Party** (2014-2015)
-* Research: produced background briefs for use in policy development and public communications (topics: BC energy use and agriculture)
-* Data work: collected and analysed data to examine long-term policy approaches to topic areas
+* *Research*: produced background briefs for use in policy development and public communications (topics: BC energy use and agriculture)
+* *Data work*: collected and analysed data to examine long-term policy approaches to topic areas
 * Summarised and interpreted complex information for public communications, including writing [blog posts](http://www.andrewweavermla.ca/2015/08/14/floods-power-fish-damming-history/)
 
 **Miscellaneous Customer Service Positions** (2012-2017)
@@ -42,6 +39,7 @@ Researcher and technical communicator interested in technology, ethics of techno
 * Sales Associate, *Gap Inc.*
 
 ***
+<div style="page-break-after: always;"></div>
 
 ### Skills
 
