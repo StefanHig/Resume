@@ -1,6 +1,6 @@
 # Stefan Higgins
 
-**[stfn.work](https://stfn.work/) | [github](https://github.com/StefanHig) | <stefanhiggins@uvic.ca> | 416-931-5349**
+**[stfn.work](https://stfn.work/) | [github](https://github.com/StefanHig) | <stefanachiggins@gmail.com> | 416-931-5349**
 
 ***
 
